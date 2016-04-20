@@ -60,6 +60,8 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [ECMASCript 2015 series on @medium](https://medium.com/ecmascript-2015)
 1. [ES6 In Depth articles by Nicolas Bevacqua](https://ponyfoo.com/articles/tagged/es6-in-depth)
 1. [ES6 Overview in 350 Bullet Points by Nicolas Bevacqua](https://ponyfoo.com/articles/es6)
+1. [ECMAScript 6 Overview in simple terms](https://github.com/imalitavakoli/learn-es6)
+2. [Using ES6 at work](http://xarnze.com/article/ES6,%20ECMAScript2015)
 
 ## Books
 
@@ -69,6 +71,8 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 1. [Expert JavaScript](http://www.apress.com/9781430260974)
 1. [JavaScript Allongé, The "Six" Edition](https://leanpub.com/javascriptallongesix)
+1. [Setting Up ES6](https://leanpub.com/setting-up-es6) - [Read Online](https://leanpub.com/setting-up-es6/read)
+1. [Exploring ES6](https://leanpub.com/exploring-es6)
 
 ## Built with ES6
 
@@ -79,8 +83,8 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 
 1. [What’s Coming to JavaScript - Tuts+](https://tutsplus.com/course/whats-coming-to-javascript/)
 1. [JavaScript Fundamentals for ES6 - Pluralsight](http://www.pluralsight.com/courses/javascript-fundamentals-es6)
-1. [Expert ES6 - Tagtree](http://tagtree.io/courses/expert-es6)
 1. [JS.Next: ES6 - Frontend Masters](https://frontendmasters.com/courses/jsnext-es6/)
+2. [Say Hello to ES2015](https://tutor.mantrajs.com/say-hello-to-ES2015/introduction)
 
 ## Learn with Code
 
@@ -122,7 +126,6 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [What's ECMAScript 6 Good For? - Presentation by Julio Cesar Ody](http://www.youtube.com/watch?v=tBkA6x0sbuQ)
 1. [Hanging Up On Callbacks: Using ECMAScript 6 Generators](http://www.youtube.com/watch?v=OYdP1tQ9Rnw)
 1. [Axel Rauschmayer - A 90 minute overview of ECMAScript 6](http://www.2ality.com/2015/02/using-es6-today-minsk.html)
-1. [ECMAScript 6 with Kit Cambridge](http://www.youtube.com/watch?v=3XlwdEc6H6A)
 1. [Kit Cambridge, "EcmaScript Next: The Subtleties of ES 6" at W3Conf 2013](http://www.youtube.com/watch?v=Dt0f2XdvriQ)
 1. [Yehuda Katz - ECMAScript 6](http://www.youtube.com/watch?v=AkjcxlAuyLI)
 1. [Ben Newman - Easing into ECMAScript 6 and Beyond](http://www.youtube.com/watch?v=kXY9hIPKuLQ)
